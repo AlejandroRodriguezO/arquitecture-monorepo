@@ -1,0 +1,1 @@
+export 'di/bank_di.dart';

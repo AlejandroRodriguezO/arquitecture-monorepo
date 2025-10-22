@@ -1,0 +1,1 @@
+export 'di/ecommerce_di.dart';
